@@ -14,10 +14,10 @@ feature_row01:
     url: /_pages/projects/mainProjects.md
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/mainPage/techStack.jpeg
+  - image_path: /assets/images/techStack/techStackHeader.jpeg
     title: "Tech Stack Overview"
     excerpt: "checkout my tech stack here"
-    url: /_pages/projects/techStack.md
+    url: /techStack/
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
