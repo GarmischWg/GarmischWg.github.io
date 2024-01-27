@@ -12,7 +12,7 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
 ## 🖥️ Tech stack
 
 ### Programming Languages
-<div style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 10px;">
+<div style="background-color: rgba(0, 0, 0, 0.1); padding-top: 15px; padding-bottom: 2px; border-radius: 10px;">
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
@@ -30,7 +30,7 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
 </div>
 
 ### Robotics and Electronics
-<div style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 10px;">
+<div style="background-color: rgba(0, 0, 0, 0.1); padding-top: 15px; padding-bottom: 2px; border-radius: 10px;">
 <p align="left">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="80" height="80"/>
@@ -54,7 +54,7 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
 </div>
 
 ### CAD and 3D Printing
-<div style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 10px;">
+<div style="background-color: rgba(0, 0, 0, 0.1); padding-top: 15px; padding-bottom: 2px; border-radius: 10px;">
 <p align="left">
     <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
         <img src="https://www.3ds.com/assets/3ds-navigation/Solidworks-logo_red.svg" alt="Solidworks" width="120" height="80"/>
@@ -66,7 +66,7 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
 </div>
 
 ### Operating Systems and Virtualization
-<div style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 10px;">
+<div style="background-color: rgba(0, 0, 0, 0.1); padding-top: 15px; padding-bottom: 2px; border-radius: 10px;">
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/180px-Gnu-bash-logo.svg.png" alt="bash" width="100" height="80"/>
@@ -81,22 +81,22 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="Ubuntu" width="80" height="80"/>
     </a>
     <a href="https://proxmox.com/en/" target="_blank" rel="noreferrer">
-        <img src="https://proxmox.com/images/proxmox/logos/mediakit-proxmox-server-solutions-logos-dark.svg" alt="Proxmox" width="230" height="80"/>
+        <img src="https://proxmox.com/images/proxmox/logos/mediakit-proxmox-server-solutions-logos-dark.svg" alt="Proxmox" width="276" height="96"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"/>
     </a>
     <a href="https://www.portainer.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.portainer.io/hubfs/portainer-logo-black.svg" alt="Portainer" width="100" height="80"/>
+        <img src="https://www.portainer.io/hubfs/portainer-logo-black.svg" alt="Portainer" width="120" height="96"/>
     </a>
     <a href="https://nextcloud.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/212px-Nextcloud_Logo.svg.png?20210301111141" alt="Nextcloud" width="55" height="80"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/212px-Nextcloud_Logo.svg.png?20210301111141" alt="Nextcloud" width="68" height="96"/>
     </a>
 </p>
 </div>
 
 ### Video and Design
-<div style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 10px;">
+<div style="background-color: rgba(0, 0, 0, 0.1); padding-top: 15px; padding-bottom: 2px; border-radius: 10px;">
 <p align="left">
     <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="Davinci Resolve" width="80" height="80"/>
@@ -111,7 +111,7 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
 </div>
 
 ### Machine Learning and Computer Vision
-<div style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 10px;">
+<div style="background-color: rgba(0, 0, 0, 0.1); padding-top: 15px; padding-bottom: 2px; border-radius: 10px;">
 <p align="left">
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
         <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="80" height="80"/>
@@ -126,7 +126,7 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
 </div>
 
 ### Version Control
-<div style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 10px;">
+<div style="background-color: rgba(0, 0, 0, 0.1); padding-top: 15px; padding-bottom: 2px; border-radius: 10px;">
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>
