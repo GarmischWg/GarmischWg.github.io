@@ -1,7 +1,7 @@
 ---
 layout: splash
 classes: wide
-title: Hello, <br><br>I am Garmisch <br><br> Welcom to my portfolio
+title: Hello<br><br>I am Garmisch <br><br>Welcome to my portfolio
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -11,8 +11,15 @@ feature_row01:
   - image_path: /assets/images/mainPage/realCycleWorkImage.jpg
     title: "Projects"
     excerpt: "checkoout more projects here"
-    url: /_pages/
-  - 
+    url: /_pages/projects/mainProjects.md
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/mainPage/techStack.jpeg
+    title: "Tech Stack Overview"
+    excerpt: "checkout my tech stack here"
+    url: /_pages/projects/techStack.md
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 45%;">
@@ -22,6 +29,8 @@ feature_row01:
   <h2>About me</h2>
     <p style="text-align: left;">
       Hello, I am Garmisch, I consider myself an inventor and problem solver. I love solving real-world problems by appropriately applying technology. On my quest to be better equipped in the tech field, I have chosen to major in Integrative Systems and Design, with an extended major in Artificial Intelligence and a minor in Robotics at Hong Kong University of Science and Technology.
+
+      I am very interested in enhancing the ability of robots by merging AI and robots, I believe that achiving this allows robots to be more adaptive to the real world environments, take on new tasks and break free from the hard-coded repetitive tasks.
     </p>
   </div>
 </div>
