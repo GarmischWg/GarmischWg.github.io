@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Tech stack"
+title: "Tech Stack"
 permalink: /techStack/
 header:
   overlay_color: "#000"
