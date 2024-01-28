@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Key Strengths and Area Of Interest"
+title: "Key Strengths and Area of Interest"
 permalink: /strength/
 header:
   overlay_color: "#000"
@@ -20,7 +20,7 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
 
 - **Multidimensional Thinking**: I possess the ability to approach problems from multiple perspectives, enabling me to find innovative solutions and consider diverse viewpoints, thus fostering innovative and holistic problem solving approaches.
 
-- **Collaborative Mindset**: I value collaboration and believe in the power of teamwork. I actively engage with others, fostering an environment where opinions are respected and ideas are shared.
+- **Collaborative Mindset**: I value collaboration and believe in the power of teamwork. I actively engage with others, fostering an environment where opinions are respected and ideas are shared, ensuring that the needs of clients/target groups are well understood.
 
 - **Well-Organized**: Demonstrating strong organizational skills, maintaining structured workflows, and effectively managing tasks, projects and resources.
 
@@ -29,11 +29,11 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
 ## Areas of Expertise and Interest
 - **Backend Development**: Proficient in backend development, leveraging knowledge of programming languages and frameworks to create robust and scalable web applications.
 
-- **Logic and Embedded Systems**: Skilled in designing and developing logic-based systems, including embedded systems, to create efficient and optimized solutions.
+- **Logic and Embedded Systems**: Skilled in designing and developing logic-based systems, including embedded systems, creating efficient and optimized solutions.
 
 - **Interest in AI Applications**: Passionate about exploring the practical applications of artificial intelligence, with a focus on leveraging AI models to solve real-world problems.
 
-- **AI Working Theory**: Possessing a high to medium-level understanding of various AI models and their working principles, enabling informed decisions on model selection and application.
+- **AI Working Theory**: Possessing a high-level to medium-level understanding of various AI models and their working principles, enabling informed decisions on model selection and application.
 
 - **Robotics**: Experienced in the field of robotics, with a strong understanding of robotic systems, algorithms, and integration of AI technologies.
 

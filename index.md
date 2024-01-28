@@ -10,12 +10,12 @@ header:
 feature_row01:
   - image_path: /assets/images/skillset/skillsetHeader.jpeg
     title: "Skillset Overview"
-    excerpt: "Discover my diverse engineering skillset & developements focus"
+    excerpt: "Discover my diverse engineering skillset & developments focus"
     url: /skillset/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/strength/strengthHeader.jpg
-    title: "Key Strengths & Area Of Interest"
+    title: "Key Strengths & Area of Interest"
     excerpt: "Uncover strengths and interests in soft and hard skills. Explore effective communication, adaptability, and expertise in AI, robotics, and software architecture"
     url: /strength/
     btn_label: "Read More"
@@ -34,9 +34,9 @@ feature_row01:
   <div>
     <h2>About me</h2>
     <p style="text-align: justify;">
-      Hello, I am Garmisch, I consider myself an inventor and problem solver. I love solving real-world problems by appropriately applying technology. On my quest to be better equipped in the tech field, I have chosen to major in Integrative Systems and Design, with an extended major in Artificial Intelligence and a minor in Robotics at Hong Kong University of Science and Technology.
+      Hello, I am Garmisch, I consider myself an enthusiastic inventor and problem solver. I love solving real-world problems by appropriately applying technology. On my quest to be better equipped in the tech field, I have chosen to major in Integrative Systems and Design, with an extended major in Artificial Intelligence and a minor in Robotics at the Hong Kong University of Science and Technology.
 
-      I am very interested in enhancing the ability of robots by merging AI and robots, I believe that achiving this allows robots to be more adaptive to the real world environments, take on new tasks and break free from the hard-coded repetitive tasks.
+      I am very interested in enhancing the ability of robots by merging AI and robots, believing that achieving this would allow robots to be more adaptive to the real world environments, take on new tasks and break free from the hard-coded repetitive tasks.
     </p>
   </div>
 </div>

@@ -248,7 +248,7 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
 
 - **Software Design Patterns Applications**: Applying industry-standard software design patterns to improve code modularity, reusability, and maintainability.
 
-- **Transformer Models Finetuning and Expansion**: Expanding proficiency in fine-tuning and extending transformer models, leveraging their power for natural language processing and other AI applications.
+- **Transformer Models Fine-tuning and Expansion**: Expanding proficiency in fine-tuning and extending transformer models, leveraging their power for natural language processing and other AI applications.
 
 - **AI Application in Robotics**: Exploring the intersection of AI and robotics, seeking opportunities to apply artificial intelligence algorithms and techniques to enhance robotic systems.
 
