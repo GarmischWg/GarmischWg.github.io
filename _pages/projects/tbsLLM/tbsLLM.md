@@ -8,8 +8,6 @@ header:
   overlay_image: /_pages/projects/tbsLLM/tbsLLM.jpg
 excerpt: TBS internship
 ---
-Apologies for not including the sub points in the revised version. Here is the revised text, including the sub points:
-
 ## Task
 - Improved internal communications between engineering departments at TBS.
 - Facilitated communication by answering questions based on the company code base.
