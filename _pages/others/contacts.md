@@ -18,5 +18,5 @@ header:
     <a href="lygwong@ust.hk">
         <i class="fas fa-fw fa-envelope-square fa-4x"></i>
     </a>
-    <a href="lygwong@ust.hk">lygwong@ust.hk</a>
+    <a href="mailto:lygwong@ust.hk">lygwong@ust.hk</a>
 </div>

@@ -10,19 +10,19 @@ header:
 feature_row01:
   - image_path: /assets/images/skillset/skillsetHeader.jpeg
     title: "Skillset Overview"
-    excerpt: "checkout my skillset & ongoing developemnt here"
+    excerpt: "Discover my diverse engineering skillset & developements focus"
     url: /skillset/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/strength/strengthHeader.jpg
     title: "Key Strengths & Area Of Interest"
-    excerpt: "checkout my key strenghts and area of interest here"
+    excerpt: "Uncover strengths and interests in soft and hard skills. Explore effective communication, adaptability, and expertise in AI, robotics, and software architecture"
     url: /strength/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/projects/projectsHeader.jpg
     title: "Projects & Events"
-    excerpt: "checkout some of my projects & events here"
+    excerpt: "Explore some of my projects & events"
     url: /projects/
     btn_label: "Read More"
     btn_class: "btn--primary"
