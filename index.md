@@ -14,10 +14,16 @@ feature_row01:
     url: /_pages/projects/mainProjects.md
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/techStack/techStackHeader.jpeg
-    title: "Tech Stack Overview"
+  - image_path: /assets/images/skillset/skillsetHeader.jpeg
+    title: "Skillset Overview"
     excerpt: "checkout my tech stack here"
-    url: /techStack/
+    url: /skillset/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/strength/strengthHeader.jpg
+    title: "Key Strengths and Area Of Interest"
+    excerpt: "checkout my tech stack here"
+    url: /strength/
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
