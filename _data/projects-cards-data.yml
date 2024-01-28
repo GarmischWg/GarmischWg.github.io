@@ -1,0 +1,17 @@
+- image: /_pages/projects/roboticArm/RoboticArm.jpg
+  title: Full-Stack Robotic Arm Design; Software, Mechanical, and Electronics Integration
+  tags:
+    - MECH
+    - CS
+    - ELEC
+    - AI
+  excerpt: Short project description 1
+  url: /roboticArm/
+
+- image: /path/to/project2-image.jpg
+  title: Project 2
+  tags:
+    - Tech Tag 3
+    - Tech Tag 4
+  excerpt: Short project description 2
+  url: /projects/project2.html

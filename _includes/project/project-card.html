@@ -1,0 +1,17 @@
+<div class="project-card">
+    <div style=" display: flex; justify-content: space-between;">
+        <div class="project-image-container" style="max-width: 30%; overflow: hidden; margin-right: 20px;">
+            <img src="{{ project.image }}" alt="{{ project.title }}" class="project-image"
+                style="max-width: 100%; height: auto;">
+        </div>
+        <div class="project-details" style="width: 70%;">
+            <h3 class="project-title">{{ project.title }}</h3>
+            <ul class="tech-tags">
+                {% for tag in project.tags %}
+                <li>{{ tag }}</li>
+                {% endfor %}
+            </ul>
+            <p class="excerpt">{{ project.excerpt }}</p>
+        </div>
+    </div>
+</div>
