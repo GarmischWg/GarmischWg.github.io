@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/mainPage/mptTakingPhoto.jpg
 
 feature_row01:
-  - image_path: /assets/images/mainPage/realCycleWorkImage.jpg
+  - image_path: /assets/images/projects/projectsHeader.jpg
     title: "Projects"
     excerpt: "checkoout more projects here"
     url: /_pages/projects/mainProjects.md
@@ -21,7 +21,7 @@ feature_row01:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/strength/strengthHeader.jpg
-    title: "Key Strengths and Area Of Interest"
+    title: "Key Strengths & Area Of Interest"
     excerpt: "checkout my tech stack here"
     url: /strength/
     btn_label: "Read More"
