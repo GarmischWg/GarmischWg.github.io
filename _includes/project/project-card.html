@@ -1,17 +1,19 @@
 <div class="project-card">
-    <div style=" display: flex; justify-content: space-between;">
-        <div class="project-image-container" style="max-width: 30%; overflow: hidden; margin-right: 20px;">
+    <div style="display: grid; grid-template-columns: 30% 70%; grid-gap: 20px; padding: 10px; place-items: center;">
+        <div class="project-image-container" style="max-width: 100%; overflow: hidden">
             <img src="{{ project.image }}" alt="{{ project.title }}" class="project-image"
                 style="max-width: 100%; height: auto;">
         </div>
-        <div class="project-details" style="width: 70%;">
-            <h3 class="project-title">{{ project.title }}</h3>
-            <ul class="tech-tags">
-                {% for tag in project.tags %}
-                <li>{{ tag }}</li>
-                {% endfor %}
-            </ul>
+        <div class="project-details" style="width: 90%;">
+            <h2 class="project-title">{{ project.title }}</h2>
+            <div class="tech-tags"> {% for tag in project.tags %}
+                <img src="https://img.shields.io/badge/{{ tag }}-green" alt="{{ tag }}"
+                    style="margin-right: 5px; width: auto; height: 35px;"> {% endfor %}
+            </div>
             <p class="excerpt">{{ project.excerpt }}</p>
+            <a href="{{ project.url }}" class="btn btn--primary">
+                Read More
+            </a>
         </div>
     </div>
 </div>
