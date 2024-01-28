@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Contacts"
-    url: /_pages/others/contacts.md
+    url: /contact/
   
   # - title: "Sample Collections"
   #   url: /collection-archive/
