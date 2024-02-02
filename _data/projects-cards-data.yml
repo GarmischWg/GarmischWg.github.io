@@ -1,5 +1,6 @@
 - image: /_pages/projects/roboticArm/roboticArmHeader.jpg
   title: Full-Stack Robotic Arm Design
+  period: Nov 2023 - Current
   tags:
     - MECH
     - CS
@@ -10,6 +11,7 @@
 
 - image: /_pages/projects/tbsLLM/tbsLLM.jpg
   title: Large Language Model integration - TBS internship
+  period: June 2023 - Aug 2023
   tags:
     - CS
     - AI
@@ -19,6 +21,7 @@
 
 - image: /_pages/projects/useCPR/useCPRHeader.png
   title: USE - CPR
+  period: Dec 2023 - Current
   tags:
     - CS
   excerpt: <ul> <li>As a Backend developer</li><li>To be updated</li>  </ul>
@@ -26,12 +29,14 @@
 
 - image: /_pages/projects/exchange/exchangeHeader.jpg
   title: International Exchange - Australia
+  period: Aug 2023 - Dec 2023
   tags:
   excerpt: <ul> <li>To be updated</li>  </ul>
   url: /toBeUpdated/
 
 - image: /_pages/projects/realcycle/realcycleHeader.jpg
   title: Realcycle
+  period: Sep 2022 - May 2023
   tags: 
     - CS
     - MECH
@@ -41,6 +46,7 @@
 
 - image: /_pages/projects/balanceCar/balanceCarHeader.png
   title: balanceCar
+  period: Jun 2022 - Sep 2022
   tags:
     - CS
     - MECH
@@ -48,7 +54,8 @@
   url: /toBeUpdated/
 
 - image: /_pages/projects/roboticsTeam/roboticsTeamHeader.jpg
-  title: roboticsTeam
+  title: HKUST robotics Team - ABU robocon
+  period: Oct 2021 - Sep 2022
   tags: 
     - MECH
   excerpt: <ul> <li>To be updated</li>  </ul>
@@ -56,6 +63,7 @@
 
 - image: /_pages/projects/oldProjects/oldProjectsHeader.jpg
   title: Projects and events before 2022
+  period: Before Dec 2021
   tags: Important
   excerpt: <ul> <li>Contains my portfolio for ISDN entry</li> </ul>
   url: /oldProjects/

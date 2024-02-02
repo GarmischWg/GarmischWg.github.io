@@ -6,6 +6,7 @@
         </div>
         <div class="project-details" style="width: 90%;">
             <h2 class="project-title">{{ project.title }}</h2>
+            <p class="project-period" style="color: grey;">{{ project.period }}</p>
             <div class="tech-tags"> {% for tag in project.tags %}
                 <img src="https://img.shields.io/badge/{{ tag }}-green" alt="{{ tag }}"
                     style="margin-right: 5px; width: auto; height: 35px;"> {% endfor %}
