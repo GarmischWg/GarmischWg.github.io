@@ -9,18 +9,16 @@ header:
 excerpt: Symphony of CS MECH ELEC & AI 
 ---
 
-## What is it?
-- A 6DOF robotic arm
-- Driven by stepper drivers
-- Uses cycloidal gearbox, planetary gearbox, HTD belts
-- Uses differential belt wrist
-  - Reducing end effector weight
-- Closed loop joint control with magnetic encoder
+## Overview
+- 6DOF robotic arm driven by stepper drivers
+- Incorporates cycloidal gearbox, planetary gearbox, and HTD belts
+- Features a differential belt wrist to reduce end effector weight
+- Utilizes closed-loop joint control with magnetic encoders
 
-## Why start this project?
-- Allows me practice full stacking robotics development
-  - Mech, embedded CS, CS, AI CS and electronics
-- In view of new AI technology like Transformer models, i want to explore combining AI and robtics
+## Project Motivation
+- Opportunity to practice full-stack robotics development
+- Integration of mechanical design, embedded computer science, AI, and electronics
+- Exploration of combining AI and robotics with the use of Transformer models
 
 ## MECH
 <div style="display: flex; align-items: flex-start;">
