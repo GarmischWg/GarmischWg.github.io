@@ -7,7 +7,7 @@
     - ELEC
     - AI
   excerpt: <ul> <li>Designing a robot arm from scratch</li> <li>Combining expertise in mechanical engineering, electronics, and software development and enhance them</li> <li>Exploring the integration of artificial intelligence (AI) with robotics</li></ul>
-  url: /toBeUpdated/
+  url: /roboticArm/
 
 - image: /_pages/projects/tbsLLM/tbsLLM.jpg
   title: Large Language Model integration - TBS internship
@@ -17,7 +17,6 @@
     - AI
   excerpt: <ul> <li>Tasked with integrating ChatGPT as an internal tool at TBS</li> <li>Reducing unnecessary communications between departments and streamlining enquiry response time</li> <li>Ensuring secure local processing of information</li> <li>Explored various implementation of RAG, vectordb, LLM hosting and LLMs</li>  </ul>
   url: /tbsLLM/
-
 
 - image: /_pages/projects/useCPR/useCPRHeader.png
   title: USE - CPR
