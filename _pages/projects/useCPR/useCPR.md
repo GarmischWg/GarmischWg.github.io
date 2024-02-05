@@ -14,3 +14,5 @@ excerpt: Tapping into SAAS ecosystem
 - Integrated a physical practice module with an online learning module.
 - Designed the system to operate autonomously without the need for constant staff monitoring.
 - Engaged in the project as a result of an invitation from Jimmy Wu at **Jinfinite**, the contracted R&D company, for a job from **Polytechnic University** Medical school.
+
+
