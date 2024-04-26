@@ -45,7 +45,7 @@ header:
 - NIR spectrometer
     - We use NIR spectrometer to identify the type of plastic
     - We sort the plastic at the source, so that there is not "Second stage transportation"
-    - ![Alt text](_pages/projects/realcycle/NIR_spectrometer.png)
+    - ![Alt text](/_pages/projects/realcycle/NIR_spectrometer.png)
 - Mechanical Compressor
     - We compressor that shrinks the volume of bottles after it is identified to be clean
     - Due to safety concerns, we did not implement it in the lab prototype
