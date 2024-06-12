@@ -213,6 +213,12 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
         </a>
         <img src="https://img.shields.io/badge/Lv-Intermediate-yellow" alt="Intermediate" style="margin-top: 5px;" />
     </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <a href="https://developer.nvidia.com/omniverse" target="_blank" rel="noreferrer">
+            <img src="https://mcomputers.cz/wp-content/uploads/2022/05/nvidia-omniverse-lockup-rgb-blk-for-screen-705x273.png" alt="Nvidia Omniverse" width="160" height="70"/>
+        </a>
+        <img src="https://img.shields.io/badge/Lv-Beginner-green" alt="Intermediate" style="margin-top: 5px;" />
+    </div>
 </div>
 
 ### Version Control
@@ -234,7 +240,7 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
         </a>
         <img src="https://img.shields.io/badge/Lv-Advanced-red" alt="Advanced" style="margin-top: 5px;" />
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="80" height="80"/>
         </a>
