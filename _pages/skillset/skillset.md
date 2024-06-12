@@ -72,6 +72,12 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
         <img src="https://img.shields.io/badge/Lv-Intermediate-yellow" alt="Intermediate" style="margin-top: 5px;" />
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
+            <img src="https://wiki.stmicroelectronics.cn/stm32mcu/nsfr_img_auth.php/4/4e/STM32.png" alt="STM32" width="80" height="80"/>
+        </a>
+        <img src="https://img.shields.io/badge/Lv-Beginner-green" alt="Beginner" style="margin-top: 5px;" />
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <a href="https://moveit.ros.org/" target="_blank" rel="noreferrer">
             <img src="https://moveit.ros.org/assets/logo/moveit_logo-white.png" alt="MoevIt" width="180" height="96"/>
         </a>
@@ -233,6 +239,12 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
             <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="80" height="80"/>
         </a>
         <img src="https://img.shields.io/badge/Lv-Advanced-red" alt="Advanced" style="margin-top: 5px;" />
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png?20170912170050" alt="AWS" width="80" height="80"/>
+        </a>
+        <img src="https://img.shields.io/badge/Lv-Beginner-green" alt="Advanced" style="margin-top: 5px;" />
     </div>
 </div>
 
