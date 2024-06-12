@@ -2,7 +2,7 @@
 layout: splash
 classes: wide
 title: To Be Updated
-excerpt: Comeback at another for time more content<br>Expected delivery date 15/02/2024
+excerpt: Comeback at another for time more content
 permalink: /toBeUpdated/
 header:
   overlay_color: "#000"
