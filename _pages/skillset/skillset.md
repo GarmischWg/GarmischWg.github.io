@@ -55,7 +55,7 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/411px-Raspberry_Pi_Logo.svg.png?20230605225001" alt="Raspberry Pi" width="120" height="80"/>
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/411px-Raspberry_Pi_Logo.svg.png?20230605225001" alt="Raspberry Pi" width="80" height="80"/>
         </a>
         <img src="https://img.shields.io/badge/Lv-Intermediate-yellow" alt="Intermediate" style="margin-top: 5px;" />
     </div>
