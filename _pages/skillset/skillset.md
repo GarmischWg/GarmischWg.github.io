@@ -31,12 +31,6 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
         </a>
         <img src="https://img.shields.io/badge/Lv-Intermediate-yellow" alt="Intermediate" />
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="80" height="80"/>
-        </a>
-        <img src="https://img.shields.io/badge/Lv-Beginner-green" alt="Beginner" />
-    </div>
 </div>
 
 ### Robotics and Electronics
@@ -61,7 +55,7 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-            <img src="https://www.raspberrypi.org/pagekit-assets/media/images/4913a547895720ff30c1.svg" alt="Raspberry Pi" width="120" height="80"/>
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/411px-Raspberry_Pi_Logo.svg.png?20230605225001" alt="Raspberry Pi" width="120" height="80"/>
         </a>
         <img src="https://img.shields.io/badge/Lv-Intermediate-yellow" alt="Intermediate" style="margin-top: 5px;" />
     </div>
@@ -79,7 +73,7 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <a href="https://moveit.ros.org/" target="_blank" rel="noreferrer">
-            <img src="https://moveit.ros.org/assets/logo/moveit_logo-white.png" alt="MoevIt" width="180" height="96"/>
+            <img src="http://moveit.ros.org/assets/logo/moveit_logo-black.svg" alt="MoevIt" width="180" height="96"/>
         </a>
         <img src="https://img.shields.io/badge/Lv-Beginner-green" alt="Beginner" style="margin-top: 5px;" />
     </div>
@@ -118,12 +112,6 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
     <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/>
-        </a>
-        <img src="https://img.shields.io/badge/Lv-Intermediate-yellow" alt="Intermediate" style="margin-top: 5px;" />
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-        <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
-            <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian" width="80" height="80"/>
         </a>
         <img src="https://img.shields.io/badge/Lv-Intermediate-yellow" alt="Intermediate" style="margin-top: 5px;" />
     </div>
@@ -172,12 +160,6 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
             <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="80" height="80"/>
         </a>
         <img src="https://img.shields.io/badge/Lv-Intermediate-yellow" alt="Intermediate" style="margin-top: 5px;" />
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="80" height="80"/>
-        </a>
-        <img src="https://img.shields.io/badge/Lv-Beginner-green" alt="Beginner" style="margin-top: 5px;" />
     </div>
 </div>
 
