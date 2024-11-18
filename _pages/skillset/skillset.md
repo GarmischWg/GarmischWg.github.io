@@ -42,8 +42,20 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
         <img src="https://img.shields.io/badge/Lv-Advance-red" alt="Advance" style="margin-top: 5px;" />
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer">
+            <img src="https://www.ros.org/imgs/logo-white.png" alt="Robot Operating System" width="150" height="80"/>
+        </a>
+        <img src="https://img.shields.io/badge/Lv-Advance-red" alt="Advance" style="margin-top: 5px;" />
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <a href="https://github.com/espressif" target="_blank" rel="noreferrer">
             <img src="https://avatars.githubusercontent.com/u/9460735?s=200&v=4" alt="ESP32" width="80" height="80"/>
+        </a>
+        <img src="https://img.shields.io/badge/Lv-Intermediate-yellow" alt="Intermediate" style="margin-top: 5px;" />
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
+            <img src="https://wiki.stmicroelectronics.cn/stm32mcu/nsfr_img_auth.php/4/4e/STM32.png" alt="STM32" width="80" height="80"/>
         </a>
         <img src="https://img.shields.io/badge/Lv-Intermediate-yellow" alt="Intermediate" style="margin-top: 5px;" />
     </div>
@@ -60,22 +72,10 @@ excerpt: Discover my diverse skillset in computer science, AI, robotics, mechani
         <img src="https://img.shields.io/badge/Lv-Intermediate-yellow" alt="Intermediate" style="margin-top: 5px;" />
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer">
-            <img src="https://www.ros.org/imgs/logo-white.png" alt="Robot Operating System" width="150" height="80"/>
-        </a>
-        <img src="https://img.shields.io/badge/Lv-Intermediate-yellow" alt="Intermediate" style="margin-top: 5px;" />
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
-            <img src="https://wiki.stmicroelectronics.cn/stm32mcu/nsfr_img_auth.php/4/4e/STM32.png" alt="STM32" width="80" height="80"/>
-        </a>
-        <img src="https://img.shields.io/badge/Lv-Beginner-green" alt="Beginner" style="margin-top: 5px;" />
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <a href="https://moveit.ros.org/" target="_blank" rel="noreferrer">
             <img src="http://moveit.ros.org/assets/logo/moveit_logo-black.svg" alt="MoevIt" width="180" height="96"/>
         </a>
-        <img src="https://img.shields.io/badge/Lv-Beginner-green" alt="Beginner" style="margin-top: 5px;" />
+        <img src="https://img.shields.io/badge/Lv-Intermediate-yellow" alt="Intermediate" style="margin-top: 5px;" />
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
