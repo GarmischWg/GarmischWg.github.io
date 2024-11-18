@@ -43,15 +43,6 @@
   excerpt: <ul> <li>CV algorithm training and deployment</li> <li>Created a highly customizable version of Google teachable machine like software</li> <li>Attained valuable experience in debugging a CV algorithm through training statistics</li> <li>enabling effective enhancements to model architecture, training data and hyper-parameters</li> </ul>
   url: /realcycle/
 
-- image: /_pages/projects/balanceCar/balanceCarHeader.png
-  title: balanceCar
-  period: Jun 2022 - Sep 2022
-  tags:
-    - CS
-    - MECH
-  excerpt: <ul> <li>To be updated</li>  </ul>
-  url: /toBeUpdated/
-
 - image: /_pages/projects/roboticsTeam/roboticsTeamHeader.jpg
   title: HKUST robotics Team - ABU robocon
   period: Oct 2021 - Sep 2022
