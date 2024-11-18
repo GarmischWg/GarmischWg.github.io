@@ -1,3 +1,12 @@
+- image: /_pages/projects/cybathlon/cybathlonHeader.jpg
+  title: Cybathlon 2024, ETH Zurich
+  period: May 2024 - Oct 2024
+  tags:
+    - MECH
+    - CS
+  excerpt: <ul> <li>An internation competition that aims to develope robotics technology to aid with daily tasks for the disabled</li> <li>Incharge of the software and design of the control system for the robotic arm.</li> </ul>
+  url: /cybathlon/
+
 - image: /_pages/projects/roboticArm/roboticArmHeader.jpg
   title: Full-Stack Robotic Arm Design
   period: Nov 2023 - Current
