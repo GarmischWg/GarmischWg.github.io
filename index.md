@@ -1,7 +1,7 @@
 ---
 layout: splash
 classes: wide
-title: Hello<br><br>I am Garmisch <br><br>Welcome to my portfolio
+title: Hello!<br><br>I am Garmisch,<br><br>Welcome to my portfolio!
 header:
   overlay_color: "#000"
   overlay_filter: "0.7"
