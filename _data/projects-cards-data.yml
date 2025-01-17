@@ -1,3 +1,12 @@
+- image: /_pages/projects/fyp/fypHeader.jpg
+  title: Final Year Project - Drone Rescue
+  period: June 2024 - Current
+  tags:
+    - MECH
+    - CS
+  excerpt: <ul> <li>Domain exploration through interviews and research with industry leaders</li><li>Pioneers of drone rescue technology in Hong Kong</li> </ul>
+  url: /fyp/
+
 - image: /_pages/projects/seahorseActuator/seahorseActuatorHeader.jpg
   title: Seahorse Inspired Pre-Curled Actuator
   period: May 2024 - Current
